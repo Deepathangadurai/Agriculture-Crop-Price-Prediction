@@ -19,7 +19,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.markdown("<h1 style='text-align: center; color: green;'>🌾 Crop Cost Prediction Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: green;'>🌾 Agriculture-Crop-Price-Prediction</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Enter crop details to predict <b>Cost per hectare (₹/ha)</b></p>", unsafe_allow_html=True)
 st.write("---")
 
