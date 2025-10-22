@@ -1,0 +1,16 @@
+# Web app
+streamlit
+# Data handling
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization (optional but useful)
+matplotlib
+seaborn
+
+# Misc
+python-dotenv # If you plan to use environment variables
